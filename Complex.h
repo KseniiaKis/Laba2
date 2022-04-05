@@ -34,12 +34,3 @@ public:
 
 };
 std::ostream& operator << (std::ostream& os, TComplex& a);
-
-
-
-
-
-
-
-
-
